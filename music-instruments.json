@@ -240,5 +240,247 @@
       "description": "Popular tube amplifier known for its warm and smooth tones.",
       "year": 2021
     }
+  ],
+   "keys": [
+    {
+      "id": 1,
+      "title": "Steinway & Sons Grand Piano",
+      "brand": "Steinway & Sons",
+      "price": 29999.99,
+      "description": "Classic grand piano with a rich and expressive sound.",
+      "year": 2022
+    },
+    {
+      "id": 2,
+      "title": "Yamaha CP88 Stage Piano",
+      "brand": "Yamaha",
+      "price": 1999.99,
+      "description": "Stage piano with authentic acoustic and electric piano sounds.",
+      "year": 2023
+    },
+    {
+      "id": 3,
+      "title": "Korg Minilogue XD Polyphonic Synthesizer",
+      "brand": "Korg",
+      "price": 649.99,
+      "description": "Polyphonic synthesizer with a wide range of sound options.",
+      "year": 2021
+    },
+    {
+      "id": 4,
+      "title": "Hohner Panther Accordion",
+      "brand": "Hohner",
+      "price": 499.99,
+      "description": "Light and compact accordion for street performances and parties.",
+      "year": 2020
+    },
+    {
+      "id": 5,
+      "title": "Roland RD-2000 Digital Stage Piano",
+      "brand": "Roland",
+      "price": 2499.99,
+      "description": "Versatile digital stage piano with extensive sound libraries.",
+      "year": 2022
+    },
+    {
+      "id": 6,
+      "title": "Moog Subsequent 37 Analog Synthesizer",
+      "brand": "Moog",
+      "price": 1499.99,
+      "description": "Analog synthesizer known for its rich and powerful sound.",
+      "year": 2023
+    },
+    {
+      "id": 7,
+      "title": "Nord Electro 6D 61-Key Keyboard",
+      "brand": "Nord",
+      "price": 2299.99,
+      "description": "Versatile keyboard with a focus on electric piano and organ sounds.",
+      "year": 2021
+    },
+    {
+      "id": 8,
+      "title": "Casio CDP-S350 Digital Piano",
+      "brand": "Casio",
+      "price": 599.99,
+      "description": "Affordable digital piano with weighted keys and various sounds.",
+      "year": 2020
+    },
+    {
+      "id": 9,
+      "title": "Kawai MP11 Digital Stage Piano",
+      "brand": "Kawai",
+      "price": 2299.99,
+      "description": "High-quality digital stage piano with authentic piano action.",
+      "year": 2022
+    },
+    {
+      "id": 10,
+      "title": "Yamaha YEV105 Electric Violin",
+      "brand": "Yamaha",
+      "price": 599.99,
+      "description": "Modern electric violin with a beautiful design.",
+      "year": 2023
+    },
+    {
+      "id": 11,
+      "title": "Korg Kronos Music Workstation",
+      "brand": "Korg",
+      "price": 3499.99,
+      "description": "Powerful music workstation with a wide range of sounds and features.",
+      "year": 2021
+    },
+    {
+      "id": 12,
+      "title": "Hohner Special 20 Harmonica",
+      "brand": "Hohner",
+      "price": 39.99,
+      "description": "Classic harmonica for blues and rock.",
+      "year": 2020
+    },
+    {
+      "id": 13,
+      "title": "Nord Stage 3 Compact Keyboard",
+      "brand": "Nord",
+      "price": 2699.99,
+      "description": "Versatile stage keyboard with a wide selection of sounds.",
+      "year": 2022
+    },
+    {
+      "id": 14,
+      "title": "Yamaha PSR-EW410 Portable Keyboard",
+      "brand": "Yamaha",
+      "price": 499.99,
+      "description": "Portable keyboard with a wide range of instrument voices and styles.",
+      "year": 2023
+    },
+    {
+      "id": 15,
+      "title": "Roland JUNO-DS88 Synthesizer",
+      "brand": "Roland",
+      "price": 899.99,
+      "description": "88-key synthesizer with a wide range of sounds and easy-to-use interface.",
+      "year": 2021
+    },
+    {
+      "id": 16,
+      "title": "Accordion MIDI Controller",
+      "brand": "Roland",
+      "price": 799.99,
+      "description": "MIDI accordion controller for electronic music production.",
+      "year": 2020
+    },
+    {
+      "id": 17,
+      "title": "Kurzweil Forte SE Stage Piano",
+      "brand": "Kurzweil",
+      "price": 1999.99,
+      "description": "Stage piano with a wide range of high-quality sounds and effects.",
+      "year": 2022
+    },
+    {
+      "id": 18,
+      "title": "Wurlitzer 200A Electric Piano",
+      "brand": "Wurlitzer",
+      "price": 1199.99,
+      "description": "Vintage electric piano known for its warm and classic sound.",
+      "year": 2023
+    },
+    {
+      "id": 19,
+      "title": "Korg Pa4X Professional Arranger",
+      "brand": "Korg",
+      "price": 3499.99,
+      "description": "Professional arranger keyboard with a vast array of styles and sounds.",
+      "year": 2021
+    },
+    {
+      "id": 20,
+      "title": "Yamaha Montage 8 Synthesizer",
+      "brand": "Yamaha",
+      "price": 3299.99,
+      "description": "High-end synthesizer with Motion Control Synthesis Engine.",
+      "year": 2020
+    },
+    {
+      "id": 21,
+      "title": "Accordion Shoulder Straps",
+      "brand": "Generic",
+      "price": 29.99,
+      "description": "Adjustable shoulder straps for comfortable accordion playing.",
+      "year": 2022
+    },
+    {
+      "id": 22,
+      "title": "Kawai ES110 Digital Piano",
+      "brand": "Kawai",
+      "price": 799.99,
+      "description": "Portable digital piano with responsive piano action and high-quality sounds.",
+      "year": 2023
+    },
+    {
+      "id": 23,
+      "title": "Roland RD-88 Stage Piano",
+      "brand": "Roland",
+      "price": 1399.99,
+      "description": "Lightweight and versatile stage piano for gigging musicians.",
+      "year": 2021
+    },
+    {
+      "id": 24,
+      "title": "Korg microKorg Synthesizer/Vocoder",
+      "brand": "Korg",
+      "price": 399.99,
+      "description": "Compact synthesizer with a built-in vocoder for unique sound creation.",
+      "year": 2020
+    },
+    {
+      "id": 25,
+      "title": "Roland FR-4x V-Accordion",
+      "brand": "Roland",
+      "price": 2299.99,
+      "description": "Digital accordion with a wide range of accordion and orchestral sounds.",
+      "year": 2022
+    },
+    {
+      "id": 26,
+      "title": "Nord Lead A1 Synthesizer",
+      "brand": "Nord",
+      "price": 1499.99,
+      "description": "Analog modeling synthesizer with a focus on performance and sound design.",
+      "year": 2023
+    },
+    {
+      "id": 27,
+      "title": "Yamaha YC88 Stage Keyboard",
+      "brand": "Yamaha",
+      "price": 1699.99,
+      "description": "Stage keyboard with drawbar organ, electric piano, and acoustic piano sounds.",
+      "year": 2021
+    },
+    {
+      "id": 28,
+      "title": "Hammond SKX Stage Keyboard",
+      "brand": "Hammond",
+      "price": 2499.99,
+      "description": "Stage keyboard with authentic Hammond organ sounds and Leslie speaker emulation.",
+      "year": 2020
+    },
+    {
+      "id": 29,
+      "title": "Nord Electro 6 HP 73-Key Keyboard",
+      "brand": "Nord",
+      "price": 2699.99,
+      "description": "73-key keyboard with a focus on electro-mechanical and vintage sounds.",
+      "year": 2022
+    },
+    {
+      "id": 30,
+      "title": "Accordion Soft Case with Wheels",
+      "brand": "Generic",
+      "price": 79.99,
+      "description": "Protective soft case with wheels for accordion transport.",
+      "year": 2021
+    }
   ]
 }
