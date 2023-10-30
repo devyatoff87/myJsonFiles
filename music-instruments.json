@@ -1,728 +1,908 @@
 {
-   "guitars": [
-    {
-      "id": 1,
-      "title": "Fender Stratocaster Electric Guitar",
-      "brand": "Fender",
-      "price": 999.99,
-      "description": "Classic Fender Stratocaster electric guitar with a bright sound.",
-      "year": 2022
-    },
-    {
-      "id": 2,
-      "title": "Ibanez SR500 Bass Guitar",
-      "brand": "Ibanez",
-      "price": 649.99,
-      "description": "4-string bass guitar with excellent bass sound.",
-      "year": 2023
-    },
-    {
-      "id": 3,
-      "title": "Boss DS-1 Overdrive Pedal",
-      "brand": "Boss",
-      "price": 79.99,
-      "description": "Classic guitar overdrive pedal with a gritty sound.",
-      "year": 2021
-    },
-    {
-      "id": 4,
-      "title": "Marshall JCM800 Amplifier",
-      "brand": "Marshall",
-      "price": 1199.99,
-      "description": "Legendary Marshall amplifier with powerful tones.",
-      "year": 2020
-    },
-    {
-      "id": 5,
-      "title": "Yamaha FG800 Acoustic Guitar",
-      "brand": "Yamaha",
-      "price": 299.99,
-      "description": "Great acoustic guitar for beginners and experienced musicians.",
-      "year": 2022
-    },
-    {
-      "id": 6,
-      "title": "Gibson Les Paul Electric Guitar",
-      "brand": "Gibson",
-      "price": 1499.99,
-      "description": "Iconic Les Paul electric guitar known for its warm tones.",
-      "year": 2023
-    },
-    {
-      "id": 7,
-      "title": "Fender Jazz Bass",
-      "brand": "Fender",
-      "price": 799.99,
-      "description": "Classic Fender Jazz Bass with a versatile and punchy sound.",
-      "year": 2021
-    },
-    {
-      "id": 8,
-      "title": "MXR Phase 90 Phaser Pedal",
-      "brand": "MXR",
-      "price": 99.99,
-      "description": "Phaser pedal for adding swirling modulation to your guitar tone.",
-      "year": 2020
-    },
-    {
-      "id": 9,
-      "title": "Orange Rockerverb 50 MKIII Amplifier",
-      "brand": "Orange",
-      "price": 1999.99,
-      "description": "High-gain amplifier for rock and metal guitarists.",
-      "year": 2022
-    },
-    {
-      "id": 10,
-      "title": "Taylor 814ce Acoustic-Electric Guitar",
-      "brand": "Taylor",
-      "price": 2499.99,
-      "description": "Premium acoustic-electric guitar with a bright and clear tone.",
-      "year": 2023
-    },
-    {
-      "id": 11,
-      "title": "Ernie Ball VP Jr. Volume Pedal",
-      "brand": "Ernie Ball",
-      "price": 89.99,
-      "description": "Volume pedal for precise control of your guitar's volume.",
-      "year": 2021
-    },
-    {
-      "id": 12,
-      "title": "Line 6 Helix Multi-Effects Processor",
-      "brand": "Line 6",
-      "price": 599.99,
-      "description": "Multi-effects processor with a wide range of guitar effects.",
-      "year": 2020
-    },
-    {
-      "id": 13,
-      "title": "Fender Telecaster Electric Guitar",
-      "brand": "Fender",
-      "price": 899.99,
-      "description": "Classic Fender Telecaster with a twangy and versatile sound.",
-      "year": 2022
-    },
-    {
-      "id": 14,
-      "title": "Ibanez Tube Screamer TS9 Overdrive Pedal",
-      "brand": "Ibanez",
-      "price": 129.99,
-      "description": "Iconic overdrive pedal for bluesy and creamy guitar tones.",
-      "year": 2023
-    },
-    {
-      "id": 15,
-      "title": "VOX AC30C2 Tube Amplifier",
-      "brand": "VOX",
-      "price": 1199.99,
-      "description": "Tube amplifier known for its sparkling and jangly sound.",
-      "year": 2021
-    },
-    {
-      "id": 16,
-      "title": "Epiphone Les Paul Standard PlusTop Pro",
-      "brand": "Epiphone",
-      "price": 549.99,
-      "description": "Affordable Les Paul electric guitar with a classic look and tone.",
-      "year": 2020
-    },
-    {
-      "id": 17,
-      "title": "Dunlop Cry Baby Wah Pedal",
-      "brand": "Dunlop",
-      "price": 79.99,
-      "description": "Wah pedal for expressive guitar tones and effects.",
-      "year": 2022
-    },
-    {
-      "id": 18,
-      "title": "Peavey 6505+ Amplifier Head",
-      "brand": "Peavey",
-      "price": 799.99,
-      "description": "High-gain amplifier head for metal and hard rock guitarists.",
-      "year": 2023
-    },
-    {
-      "id": 19,
-      "title": "Martin D-28 Acoustic Guitar",
-      "brand": "Martin",
-      "price": 2699.99,
-      "description": "Premium acoustic guitar with rich and resonant tones.",
-      "year": 2021
-    },
-    {
-      "id": 20,
-      "title": "DigiTech Whammy Pitch Shifter Pedal",
-      "brand": "DigiTech",
-      "price": 149.99,
-      "description": "Pitch shifter pedal for creating unique guitar effects.",
-      "year": 2020
-    },
-    {
-      "id": 21,
-      "title": "Gibson SG Electric Guitar",
-      "brand": "Gibson",
-      "price": 1699.99,
-      "description": "Iconic Gibson SG with a sharp and edgy sound.",
-      "year": 2022
-    },
-    {
-      "id": 22,
-      "title": "Warwick Corvette Bass Guitar",
-      "brand": "Warwick",
-      "price": 1199.99,
-      "description": "High-end bass guitar with a powerful and punchy tone.",
-      "year": 2021
-    },
-    {
-      "id": 23,
-      "title": "Electro-Harmonix Holy Grail Reverb Pedal",
-      "brand": "Electro-Harmonix",
-      "price": 129.99,
-      "description": "Reverb pedal for adding spaciousness to your guitar sound.",
-      "year": 2020
-    },
-    {
-      "id": 24,
-      "title": "Blackstar HT-5R Tube Combo Amplifier",
-      "brand": "Blackstar",
-      "price": 499.99,
-      "description": "Compact tube combo amplifier with rich and warm tones.",
-      "year": 2022
-    },
-    {
-      "id": 25,
-      "title": "Taylor 214ce Deluxe Grand Auditorium Acoustic Guitar",
-      "brand": "Taylor",
-      "price": 1199.99,
-      "description": "Grand Auditorium acoustic guitar with a balanced and versatile sound.",
-      "year": 2023
-    },
-    {
-      "id": 26,
-      "title": "MXR Carbon Copy Analog Delay Pedal",
-      "brand": "MXR",
-      "price": 149.99,
-      "description": "Analog delay pedal for adding depth and character to your guitar sound.",
-      "year": 2021
-    },
-    {
-      "id": 27,
-      "title": "Bugera V22 Infinium Tube Amplifier",
-      "brand": "Bugera",
-      "price": 399.99,
-      "description": "Vintage-style tube amplifier with warm and responsive tones.",
-      "year": 2020
-    },
-    {
-      "id": 28,
-      "title": "PRS SE Custom 24 Electric Guitar",
-      "brand": "PRS",
-      "price": 799.99,
-      "description": "Versatile electric guitar with a modern design and great playability.",
-      "year": 2022
-    },
-    {
-      "id": 29,
-      "title": "DOD Grunge Distortion Pedal",
-      "brand": "DOD",
-      "price": 59.99,
-      "description": "Distortion pedal for creating gritty and heavy guitar tones.",
-      "year": 2023
-    },
-    {
-      "id": 30,
-      "title": "Fender Hot Rod Deluxe III Amplifier",
-      "brand": "Fender",
-      "price": 799.99,
-      "description": "Popular tube amplifier known for its warm and smooth tones.",
-      "year": 2021
-    }
-  ],
-   "keys": [
-    {
-      "id": 1,
-      "title": "Steinway & Sons Grand Piano",
-      "brand": "Steinway & Sons",
-      "price": 29999.99,
-      "description": "Classic grand piano with a rich and expressive sound.",
-      "year": 2022
-    },
-    {
-      "id": 2,
-      "title": "Yamaha CP88 Stage Piano",
-      "brand": "Yamaha",
-      "price": 1999.99,
-      "description": "Stage piano with authentic acoustic and electric piano sounds.",
-      "year": 2023
-    },
-    {
-      "id": 3,
-      "title": "Korg Minilogue XD Polyphonic Synthesizer",
-      "brand": "Korg",
-      "price": 649.99,
-      "description": "Polyphonic synthesizer with a wide range of sound options.",
-      "year": 2021
-    },
-    {
-      "id": 4,
-      "title": "Hohner Panther Accordion",
-      "brand": "Hohner",
-      "price": 499.99,
-      "description": "Light and compact accordion for street performances and parties.",
-      "year": 2020
-    },
-    {
-      "id": 5,
-      "title": "Roland RD-2000 Digital Stage Piano",
-      "brand": "Roland",
-      "price": 2499.99,
-      "description": "Versatile digital stage piano with extensive sound libraries.",
-      "year": 2022
-    },
-    {
-      "id": 6,
-      "title": "Moog Subsequent 37 Analog Synthesizer",
-      "brand": "Moog",
-      "price": 1499.99,
-      "description": "Analog synthesizer known for its rich and powerful sound.",
-      "year": 2023
-    },
-    {
-      "id": 7,
-      "title": "Nord Electro 6D 61-Key Keyboard",
-      "brand": "Nord",
-      "price": 2299.99,
-      "description": "Versatile keyboard with a focus on electric piano and organ sounds.",
-      "year": 2021
-    },
-    {
-      "id": 8,
-      "title": "Casio CDP-S350 Digital Piano",
-      "brand": "Casio",
-      "price": 599.99,
-      "description": "Affordable digital piano with weighted keys and various sounds.",
-      "year": 2020
-    },
-    {
-      "id": 9,
-      "title": "Kawai MP11 Digital Stage Piano",
-      "brand": "Kawai",
-      "price": 2299.99,
-      "description": "High-quality digital stage piano with authentic piano action.",
-      "year": 2022
-    },
-    {
-      "id": 10,
-      "title": "Yamaha YEV105 Electric Violin",
-      "brand": "Yamaha",
-      "price": 599.99,
-      "description": "Modern electric violin with a beautiful design.",
-      "year": 2023
-    },
-    {
-      "id": 11,
-      "title": "Korg Kronos Music Workstation",
-      "brand": "Korg",
-      "price": 3499.99,
-      "description": "Powerful music workstation with a wide range of sounds and features.",
-      "year": 2021
-    },
-    {
-      "id": 12,
-      "title": "Hohner Special 20 Harmonica",
-      "brand": "Hohner",
-      "price": 39.99,
-      "description": "Classic harmonica for blues and rock.",
-      "year": 2020
-    },
-    {
-      "id": 13,
-      "title": "Nord Stage 3 Compact Keyboard",
-      "brand": "Nord",
-      "price": 2699.99,
-      "description": "Versatile stage keyboard with a wide selection of sounds.",
-      "year": 2022
-    },
-    {
-      "id": 14,
-      "title": "Yamaha PSR-EW410 Portable Keyboard",
-      "brand": "Yamaha",
-      "price": 499.99,
-      "description": "Portable keyboard with a wide range of instrument voices and styles.",
-      "year": 2023
-    },
-    {
-      "id": 15,
-      "title": "Roland JUNO-DS88 Synthesizer",
-      "brand": "Roland",
-      "price": 899.99,
-      "description": "88-key synthesizer with a wide range of sounds and easy-to-use interface.",
-      "year": 2021
-    },
-    {
-      "id": 16,
-      "title": "Accordion MIDI Controller",
-      "brand": "Roland",
-      "price": 799.99,
-      "description": "MIDI accordion controller for electronic music production.",
-      "year": 2020
-    },
-    {
-      "id": 17,
-      "title": "Kurzweil Forte SE Stage Piano",
-      "brand": "Kurzweil",
-      "price": 1999.99,
-      "description": "Stage piano with a wide range of high-quality sounds and effects.",
-      "year": 2022
-    },
-    {
-      "id": 18,
-      "title": "Wurlitzer 200A Electric Piano",
-      "brand": "Wurlitzer",
-      "price": 1199.99,
-      "description": "Vintage electric piano known for its warm and classic sound.",
-      "year": 2023
-    },
-    {
-      "id": 19,
-      "title": "Korg Pa4X Professional Arranger",
-      "brand": "Korg",
-      "price": 3499.99,
-      "description": "Professional arranger keyboard with a vast array of styles and sounds.",
-      "year": 2021
-    },
-    {
-      "id": 20,
-      "title": "Yamaha Montage 8 Synthesizer",
-      "brand": "Yamaha",
-      "price": 3299.99,
-      "description": "High-end synthesizer with Motion Control Synthesis Engine.",
-      "year": 2020
-    },
-    {
-      "id": 21,
-      "title": "Accordion Shoulder Straps",
-      "brand": "Generic",
-      "price": 29.99,
-      "description": "Adjustable shoulder straps for comfortable accordion playing.",
-      "year": 2022
-    },
-    {
-      "id": 22,
-      "title": "Kawai ES110 Digital Piano",
-      "brand": "Kawai",
-      "price": 799.99,
-      "description": "Portable digital piano with responsive piano action and high-quality sounds.",
-      "year": 2023
-    },
-    {
-      "id": 23,
-      "title": "Roland RD-88 Stage Piano",
-      "brand": "Roland",
-      "price": 1399.99,
-      "description": "Lightweight and versatile stage piano for gigging musicians.",
-      "year": 2021
-    },
-    {
-      "id": 24,
-      "title": "Korg microKorg Synthesizer/Vocoder",
-      "brand": "Korg",
-      "price": 399.99,
-      "description": "Compact synthesizer with a built-in vocoder for unique sound creation.",
-      "year": 2020
-    },
-    {
-      "id": 25,
-      "title": "Roland FR-4x V-Accordion",
-      "brand": "Roland",
-      "price": 2299.99,
-      "description": "Digital accordion with a wide range of accordion and orchestral sounds.",
-      "year": 2022
-    },
-    {
-      "id": 26,
-      "title": "Nord Lead A1 Synthesizer",
-      "brand": "Nord",
-      "price": 1499.99,
-      "description": "Analog modeling synthesizer with a focus on performance and sound design.",
-      "year": 2023
-    },
-    {
-      "id": 27,
-      "title": "Yamaha YC88 Stage Keyboard",
-      "brand": "Yamaha",
-      "price": 1699.99,
-      "description": "Stage keyboard with drawbar organ, electric piano, and acoustic piano sounds.",
-      "year": 2021
-    },
-    {
-      "id": 28,
-      "title": "Hammond SKX Stage Keyboard",
-      "brand": "Hammond",
-      "price": 2499.99,
-      "description": "Stage keyboard with authentic Hammond organ sounds and Leslie speaker emulation.",
-      "year": 2020
-    },
-    {
-      "id": 29,
-      "title": "Nord Electro 6 HP 73-Key Keyboard",
-      "brand": "Nord",
-      "price": 2699.99,
-      "description": "73-key keyboard with a focus on electro-mechanical and vintage sounds.",
-      "year": 2022
-    },
-    {
-      "id": 30,
-      "title": "Accordion Soft Case with Wheels",
-      "brand": "Generic",
-      "price": 79.99,
-      "description": "Protective soft case with wheels for accordion transport.",
-      "year": 2021
-    }
-  ],
+    "guitars": [
+        {
+            "id": 1,
+            "title": "Fender Stratocaster Electric Guitar",
+            "brand": "Fender",
+            "price": 999.99,
+            "description": "Classic Fender Stratocaster electric guitar with a bright sound.",
+            "year": 2022,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 2,
+            "title": "Ibanez SR500 Bass Guitar",
+            "brand": "Ibanez",
+            "price": 649.99,
+            "description": "4-string bass guitar with excellent bass sound.",
+            "year": 2023,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 3,
+            "title": "Boss DS-1 Overdrive Pedal",
+            "brand": "Boss",
+            "price": 79.99,
+            "description": "Classic guitar overdrive pedal with a gritty sound.",
+            "year": 2021,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 4,
+            "title": "Marshall JCM800 Amplifier",
+            "brand": "Marshall",
+            "price": 1199.99,
+            "description": "Legendary Marshall amplifier with powerful tones.",
+            "year": 2020,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 5,
+            "title": "Yamaha FG800 Acoustic Guitar",
+            "brand": "Yamaha",
+            "price": 299.99,
+            "description": "Great acoustic guitar for beginners and experienced musicians.",
+            "year": 2022,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 6,
+            "title": "Gibson Les Paul Electric Guitar",
+            "brand": "Gibson",
+            "price": 1499.99,
+            "description": "Iconic Les Paul electric guitar known for its warm tones.",
+            "year": 2023,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 7,
+            "title": "Fender Jazz Bass",
+            "brand": "Fender",
+            "price": 799.99,
+            "description": "Classic Fender Jazz Bass with a versatile and punchy sound.",
+            "year": 2021,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 8,
+            "title": "MXR Phase 90 Phaser Pedal",
+            "brand": "MXR",
+            "price": 99.99,
+            "description": "Phaser pedal for adding swirling modulation to your guitar tone.",
+            "year": 2020,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 9,
+            "title": "Orange Rockerverb 50 MKIII Amplifier",
+            "brand": "Orange",
+            "price": 1999.99,
+            "description": "High-gain amplifier for rock and metal guitarists.",
+            "year": 2022,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 10,
+            "title": "Taylor 814ce Acoustic-Electric Guitar",
+            "brand": "Taylor",
+            "price": 2499.99,
+            "description": "Premium acoustic-electric guitar with a bright and clear tone.",
+            "year": 2023,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 11,
+            "title": "Ernie Ball VP Jr. Volume Pedal",
+            "brand": "Ernie Ball",
+            "price": 89.99,
+            "description": "Volume pedal for precise control of your guitar's volume.",
+            "year": 2021,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 12,
+            "title": "Line 6 Helix Multi-Effects Processor",
+            "brand": "Line 6",
+            "price": 599.99,
+            "description": "Multi-effects processor with a wide range of guitar effects.",
+            "year": 2020,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 13,
+            "title": "Fender Telecaster Electric Guitar",
+            "brand": "Fender",
+            "price": 899.99,
+            "description": "Classic Fender Telecaster with a twangy and versatile sound.",
+            "year": 2022,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 14,
+            "title": "Ibanez Tube Screamer TS9 Overdrive Pedal",
+            "brand": "Ibanez",
+            "price": 129.99,
+            "description": "Iconic overdrive pedal for bluesy and creamy guitar tones.",
+            "year": 2023,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 15,
+            "title": "VOX AC30C2 Tube Amplifier",
+            "brand": "VOX",
+            "price": 1199.99,
+            "description": "Tube amplifier known for its sparkling and jangly sound.",
+            "year": 2021,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 16,
+            "title": "Epiphone Les Paul Standard PlusTop Pro",
+            "brand": "Epiphone",
+            "price": 549.99,
+            "description": "Affordable Les Paul electric guitar with a classic look and tone.",
+            "year": 2020,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 17,
+            "title": "Dunlop Cry Baby Wah Pedal",
+            "brand": "Dunlop",
+            "price": 79.99,
+            "description": "Wah pedal for expressive guitar tones and effects.",
+            "year": 2022,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 18,
+            "title": "Peavey 6505+ Amplifier Head",
+            "brand": "Peavey",
+            "price": 799.99,
+            "description": "High-gain amplifier head for metal and hard rock guitarists.",
+            "year": 2023,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 19,
+            "title": "Martin D-28 Acoustic Guitar",
+            "brand": "Martin",
+            "price": 2699.99,
+            "description": "Premium acoustic guitar with rich and resonant tones.",
+            "year": 2021,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 20,
+            "title": "DigiTech Whammy Pitch Shifter Pedal",
+            "brand": "DigiTech",
+            "price": 149.99,
+            "description": "Pitch shifter pedal for creating unique guitar effects.",
+            "year": 2020,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 21,
+            "title": "Gibson SG Electric Guitar",
+            "brand": "Gibson",
+            "price": 1699.99,
+            "description": "Iconic Gibson SG with a sharp and edgy sound.",
+            "year": 2022,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 22,
+            "title": "Warwick Corvette Bass Guitar",
+            "brand": "Warwick",
+            "price": 1199.99,
+            "description": "High-end bass guitar with a powerful and punchy tone.",
+            "year": 2021,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 23,
+            "title": "Electro-Harmonix Holy Grail Reverb Pedal",
+            "brand": "Electro-Harmonix",
+            "price": 129.99,
+            "description": "Reverb pedal for adding spaciousness to your guitar sound.",
+            "year": 2020,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 24,
+            "title": "Blackstar HT-5R Tube Combo Amplifier",
+            "brand": "Blackstar",
+            "price": 499.99,
+            "description": "Compact tube combo amplifier with rich and warm tones.",
+            "year": 2022,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 25,
+            "title": "Taylor 214ce Deluxe Grand Auditorium Acoustic Guitar",
+            "brand": "Taylor",
+            "price": 1199.99,
+            "description": "Grand Auditorium acoustic guitar with a balanced and versatile sound.",
+            "year": 2023,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 26,
+            "title": "MXR Carbon Copy Analog Delay Pedal",
+            "brand": "MXR",
+            "price": 149.99,
+            "description": "Analog delay pedal for adding depth and character to your guitar sound.",
+            "year": 2021,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 27,
+            "title": "Bugera V22 Infinium Tube Amplifier",
+            "brand": "Bugera",
+            "price": 399.99,
+            "description": "Vintage-style tube amplifier with warm and responsive tones.",
+            "year": 2020,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 28,
+            "title": "PRS SE Custom 24 Electric Guitar",
+            "brand": "PRS",
+            "price": 799.99,
+            "description": "Versatile electric guitar with a modern design and great playability.",
+            "year": 2022,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 29,
+            "title": "DOD Grunge Distortion Pedal",
+            "brand": "DOD",
+            "price": 59.99,
+            "description": "Distortion pedal for creating gritty and heavy guitar tones.",
+            "year": 2023,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 30,
+            "title": "Fender Hot Rod Deluxe III Amplifier",
+            "brand": "Fender",
+            "price": 799.99,
+            "description": "Popular tube amplifier known for its warm and smooth tones.",
+            "year": 2021,
+            "catergory": "guitars",
+            "img_url": "https://placehold.co/600x400"
+        }
+    ],
+    "keys": [
+        {
+            "id": 1,
+            "title": "Steinway & Sons Grand Piano",
+            "brand": "Steinway & Sons",
+            "price": 29999.99,
+            "description": "Classic grand piano with a rich and expressive sound.",
+            "year": 2022,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 2,
+            "title": "Yamaha CP88 Stage Piano",
+            "brand": "Yamaha",
+            "price": 1999.99,
+            "description": "Stage piano with authentic acoustic and electric piano sounds.",
+            "year": 2023,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 3,
+            "title": "Korg Minilogue XD Polyphonic Synthesizer",
+            "brand": "Korg",
+            "price": 649.99,
+            "description": "Polyphonic synthesizer with a wide range of sound options.",
+            "year": 2021,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 4,
+            "title": "Hohner Panther Accordion",
+            "brand": "Hohner",
+            "price": 499.99,
+            "description": "Light and compact accordion for street performances and parties.",
+            "year": 2020,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 5,
+            "title": "Roland RD-2000 Digital Stage Piano",
+            "brand": "Roland",
+            "price": 2499.99,
+            "description": "Versatile digital stage piano with extensive sound libraries.",
+            "year": 2022,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 6,
+            "title": "Moog Subsequent 37 Analog Synthesizer",
+            "brand": "Moog",
+            "price": 1499.99,
+            "description": "Analog synthesizer known for its rich and powerful sound.",
+            "year": 2023,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 7,
+            "title": "Nord Electro 6D 61-Key Keyboard",
+            "brand": "Nord",
+            "price": 2299.99,
+            "description": "Versatile keyboard with a focus on electric piano and organ sounds.",
+            "year": 2021,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 8,
+            "title": "Casio CDP-S350 Digital Piano",
+            "brand": "Casio",
+            "price": 599.99,
+            "description": "Affordable digital piano with weighted keys and various sounds.",
+            "year": 2020,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 9,
+            "title": "Kawai MP11 Digital Stage Piano",
+            "brand": "Kawai",
+            "price": 2299.99,
+            "description": "High-quality digital stage piano with authentic piano action.",
+            "year": 2022,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 10,
+            "title": "Yamaha YEV105 Electric Violin",
+            "brand": "Yamaha",
+            "price": 599.99,
+            "description": "Modern electric violin with a beautiful design.",
+            "year": 2023,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 11,
+            "title": "Korg Kronos Music Workstation",
+            "brand": "Korg",
+            "price": 3499.99,
+            "description": "Powerful music workstation with a wide range of sounds and features.",
+            "year": 2021,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 12,
+            "title": "Hohner Special 20 Harmonica",
+            "brand": "Hohner",
+            "price": 39.99,
+            "description": "Classic harmonica for blues and rock.",
+            "year": 2020,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 13,
+            "title": "Nord Stage 3 Compact Keyboard",
+            "brand": "Nord",
+            "price": 2699.99,
+            "description": "Versatile stage keyboard with a wide selection of sounds.",
+            "year": 2022,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 14,
+            "title": "Yamaha PSR-EW410 Portable Keyboard",
+            "brand": "Yamaha",
+            "price": 499.99,
+            "description": "Portable keyboard with a wide range of instrument voices and styles.",
+            "year": 2023,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 15,
+            "title": "Roland JUNO-DS88 Synthesizer",
+            "brand": "Roland",
+            "price": 899.99,
+            "description": "88-key synthesizer with a wide range of sounds and easy-to-use interface.",
+            "year": 2021,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 16,
+            "title": "Accordion MIDI Controller",
+            "brand": "Roland",
+            "price": 799.99,
+            "description": "MIDI accordion controller for electronic music production.",
+            "year": 2020,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 17,
+            "title": "Kurzweil Forte SE Stage Piano",
+            "brand": "Kurzweil",
+            "price": 1999.99,
+            "description": "Stage piano with a wide range of high-quality sounds and effects.",
+            "year": 2022,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 18,
+            "title": "Wurlitzer 200A Electric Piano",
+            "brand": "Wurlitzer",
+            "price": 1199.99,
+            "description": "Vintage electric piano known for its warm and classic sound.",
+            "year": 2023,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 19,
+            "title": "Korg Pa4X Professional Arranger",
+            "brand": "Korg",
+            "price": 3499.99,
+            "description": "Professional arranger keyboard with a vast array of styles and sounds.",
+            "year": 2021,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 20,
+            "title": "Yamaha Montage 8 Synthesizer",
+            "brand": "Yamaha",
+            "price": 3299.99,
+            "description": "High-end synthesizer with Motion Control Synthesis Engine.",
+            "year": 2020,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 21,
+            "title": "Accordion Shoulder Straps",
+            "brand": "Generic",
+            "price": 29.99,
+            "description": "Adjustable shoulder straps for comfortable accordion playing.",
+            "year": 2022,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 22,
+            "title": "Kawai ES110 Digital Piano",
+            "brand": "Kawai",
+            "price": 799.99,
+            "description": "Portable digital piano with responsive piano action and high-quality sounds.",
+            "year": 2023,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 23,
+            "title": "Roland RD-88 Stage Piano",
+            "brand": "Roland",
+            "price": 1399.99,
+            "description": "Lightweight and versatile stage piano for gigging musicians.",
+            "year": 2021,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 24,
+            "title": "Korg microKorg Synthesizer/Vocoder",
+            "brand": "Korg",
+            "price": 399.99,
+            "description": "Compact synthesizer with a built-in vocoder for unique sound creation.",
+            "year": 2020,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 25,
+            "title": "Roland FR-4x V-Accordion",
+            "brand": "Roland",
+            "price": 2299.99,
+            "description": "Digital accordion with a wide range of accordion and orchestral sounds.",
+            "year": 2022,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 26,
+            "title": "Nord Lead A1 Synthesizer",
+            "brand": "Nord",
+            "price": 1499.99,
+            "description": "Analog modeling synthesizer with a focus on performance and sound design.",
+            "year": 2023,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 27,
+            "title": "Yamaha YC88 Stage Keyboard",
+            "brand": "Yamaha",
+            "price": 1699.99,
+            "description": "Stage keyboard with drawbar organ, electric piano, and acoustic piano sounds.",
+            "year": 2021,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 28,
+            "title": "Hammond SKX Stage Keyboard",
+            "brand": "Hammond",
+            "price": 2499.99,
+            "description": "Stage keyboard with authentic Hammond organ sounds and Leslie speaker emulation.",
+            "year": 2020,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 29,
+            "title": "Nord Electro 6 HP 73-Key Keyboard",
+            "brand": "Nord",
+            "price": 2699.99,
+            "description": "73-key keyboard with a focus on electro-mechanical and vintage sounds.",
+            "year": 2022,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 30,
+            "title": "Accordion Soft Case with Wheels",
+            "brand": "Generic",
+            "price": 79.99,
+            "description": "Protective soft case with wheels for accordion transport.",
+            "year": 2021,
+            "catergory": "keys",
+            "img_url": "https://placehold.co/600x400"
+        }
+    ],
     "recording_equipment": [
-    {
-      "id": 1,
-      "title": "Neumann U87 Studio Microphone",
-      "brand": "Neumann",
-      "price": 3499.99,
-      "description": "High-end studio microphone known for its exceptional audio quality.",
-      "year": 2022
-    },
-    {
-      "id": 2,
-      "title": "SSL 2+ USB Audio Interface",
-      "brand": "Solid State Logic",
-      "price": 299.99,
-      "description": "USB audio interface with pristine sound and classic SSL analog processing.",
-      "year": 2023
-    },
-    {
-      "id": 3,
-      "title": "Mogami Gold XLR Microphone Cable",
-      "brand": "Mogami",
-      "price": 39.99,
-      "description": "High-quality XLR cable for studio and live sound applications.",
-      "year": 2021
-    },
-    {
-      "id": 4,
-      "title": "Adam Audio A7X Studio Monitors",
-      "brand": "Adam Audio",
-      "price": 749.99,
-      "description": "Active studio monitors with precise and transparent audio reproduction.",
-      "year": 2020
-    },
-    {
-      "id": 5,
-      "title": "Universal Audio Apollo Twin X Duo Audio Interface",
-      "brand": "Universal Audio",
-      "price": 899.99,
-      "description": "Audio interface with UAD-2 processing for vintage analog emulations.",
-      "year": 2022
-    },
-    {
-      "id": 6,
-      "title": "Shure SM7B Dynamic Microphone",
-      "brand": "Shure",
-      "price": 399.99,
-      "description": "Dynamic microphone with a smooth, flat, wide-range frequency response.",
-      "year": 2023
-    },
-    {
-      "id": 7,
-      "title": "Rode NT1-A Condenser Microphone",
-      "brand": "Rode",
-      "price": 199.99,
-      "description": "Studio condenser microphone with low noise and high sensitivity.",
-      "year": 2021
-    },
-    {
-      "id": 8,
-      "title": "Focusrite Clarett 8PreX Audio Interface",
-      "brand": "Focusrite",
-      "price": 899.99,
-      "description": "Thunderbolt audio interface with eight mic preamps and low-latency performance.",
-      "year": 2020
-    },
-    {
-      "id": 9,
-      "title": "Mackie HR824mk2 Studio Monitors",
-      "brand": "Mackie",
-      "price": 599.99,
-      "description": "High-resolution studio monitors with deep bass and precise mids and highs.",
-      "year": 2022
-    },
-    {
-      "id": 10,
-      "title": "Warm Audio WA-2A Optical Compressor",
-      "brand": "Warm Audio",
-      "price": 899.99,
-      "description": "Optical compressor inspired by the classic LA-2A with smooth, transparent compression.",
-      "year": 2023
-    },
-    {
-      "id": 11,
-      "title": "AKG C414 XLS Condenser Microphone",
-      "brand": "AKG",
-      "price": 999.99,
-      "description": "Versatile condenser microphone with multiple polar patterns for various applications.",
-      "year": 2021
-    },
-    {
-      "id": 12,
-      "title": "Mogami Gold Studio Patch Cable",
-      "brand": "Mogami",
-      "price": 29.99,
-      "description": "High-quality patch cable for studio signal routing.",
-      "year": 2020
-    },
-    {
-      "id": 13,
-      "title": "Yamaha HS8 Studio Monitors",
-      "brand": "Yamaha",
-      "price": 349.99,
-      "description": "Active studio monitors with a neutral and accurate sound signature.",
-      "year": 2022
-    },
-    {
-      "id": 14,
-      "title": "Slate Digital VMS ML-1 Modeling Microphone",
-      "brand": "Slate Digital",
-      "price": 799.99,
-      "description": "Modeling microphone with emulations of classic studio mics.",
-      "year": 2023
-    },
-    {
-      "id": 15,
-      "title": "Universal Audio LA-2A Compressor/Limiter",
-      "brand": "Universal Audio",
-      "price": 3499.99,
-      "description": "Legendary tube optical compressor/limiter for vintage warmth and tone control.",
-      "year": 2021
-    },
-    {
-      "id": 16,
-      "title": "M-Audio M-Track 2X2M Audio Interface",
-      "brand": "M-Audio",
-      "price": 149.99,
-      "description": "Compact audio interface with MIDI I/O and studio-grade audio quality.",
-      "year": 2020
-    },
-    {
-      "id": 17,
-      "title": "Neumann KM 184 Small-Diaphragm Microphone",
-      "brand": "Neumann",
-      "price": 799.99,
-      "description": "Small-diaphragm condenser microphone for detailed sound capture.",
-      "year": 2022
-    },
-    {
-      "id": 18,
-      "title": "Focusrite ISA One Preamp/DI",
-      "brand": "Focusrite",
-      "price": 499.99,
-      "description": "Single-channel microphone preamp with versatile options.",
-      "year": 2023
-    },
-    {
-      "id": 19,
-      "title": "PreSonus Eris E3.5 Studio Monitors",
-      "brand": "PreSonus",
-      "price": 99.99,
-      "description": "Compact studio monitors with accurate sound and convenient controls.",
-      "year": 2021
-    },
-    {
-      "id": 20,
-      "title": "Empirical Labs Distressor EL8 Compressor",
-      "brand": "Empirical Labs",
-      "price": 1299.99,
-      "description": "Versatile studio compressor known for its distinctive character.",
-      "year": 2020
-    },
-    {
-      "id": 21,
-      "title": "Shure SM57 Dynamic Microphone",
-      "brand": "Shure",
-      "price": 99.99,
-      "description": "Dynamic microphone ideal for recording instruments and vocals.",
-      "year": 2022
-    },
-    {
-      "id": 22,
-      "title": "Hosa Pro XLR Microphone Cable",
-      "brand": "Hosa",
-      "price": 19.99,
-      "description": "Professional-grade XLR cable for microphone connectivity.",
-      "year": 2021
-    },
-    {
-      "id": 23,
-      "title": "Focal Shape 65 Studio Monitors",
-      "brand": "Focal",
-      "price": 1099.99,
-      "description": "High-quality studio monitors with precise imaging and extended low end.",
-      "year": 2020
-    },
-    {
-      "id": 24,
-      "title": "Avalon VT-737sp Tube Channel Strip",
-      "brand": "Avalon",
-      "price": 2999.99,
-      "description": "Tube channel strip with microphone preamp, EQ, and compressor.",
-      "year": 2022
-    },
-    {
-      "id": 25,
-      "title": "Behringer Truth B2031A Studio Monitors",
-      "brand": "Behringer",
-      "price": 199.99,
-      "description": "Affordable studio monitors with accurate sound reproduction.",
-      "year": 2023
-    },
-    {
-      "id": 26,
-      "title": "Warm Audio EQP-WA Tube Equalizer",
-      "brand": "Warm Audio",
-      "price": 699.99,
-      "description": "Tube equalizer based on the classic Pultec EQP-1A design.",
-      "year": 2021
-    },
-    {
-      "id": 27,
-      "title": "Sennheiser MKH 416 Shotgun Microphone",
-      "brand": "Sennheiser",
-      "price": 999.99,
-      "description": "Shotgun microphone with excellent off-axis rejection for field and studio recording.",
-      "year": 2020
-    },
-    {
-      "id": 28,
-      "title": "Rupert Neve Designs 511 Mic Preamp",
-      "brand": "Rupert Neve Designs",
-      "price": 599.99,
-      "description": "Class-A microphone preamp with a vintage Neve sound.",
-      "year": 2022
-    },
-    {
-      "id": 29,
-      "title": "Mogami Gold AES/EBU Digital Cable",
-      "brand": "Mogami",
-      "price": 49.99,
-      "description": "High-quality digital AES/EBU cable for studio use.",
-      "year": 2023
-    },
-    {
-      "id": 30,
-      "title": "Audeze LCD-2 Studio Headphones",
-      "brand": "Audeze",
-      "price": 799.99,
-      "description": "Open-back studio headphones with planar magnetic drivers for detailed audio monitoring.",
-      "year": 2021
-    }
-  ]
+        {
+            "id": 1,
+            "title": "Neumann U87 Studio Microphone",
+            "brand": "Neumann",
+            "price": 3499.99,
+            "description": "High-end studio microphone known for its exceptional audio quality.",
+            "year": 2022,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 2,
+            "title": "SSL 2+ USB Audio Interface",
+            "brand": "Solid State Logic",
+            "price": 299.99,
+            "description": "USB audio interface with pristine sound and classic SSL analog processing.",
+            "year": 2023,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 3,
+            "title": "Mogami Gold XLR Microphone Cable",
+            "brand": "Mogami",
+            "price": 39.99,
+            "description": "High-quality XLR cable for studio and live sound applications.",
+            "year": 2021,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 4,
+            "title": "Adam Audio A7X Studio Monitors",
+            "brand": "Adam Audio",
+            "price": 749.99,
+            "description": "Active studio monitors with precise and transparent audio reproduction.",
+            "year": 2020,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 5,
+            "title": "Universal Audio Apollo Twin X Duo Audio Interface",
+            "brand": "Universal Audio",
+            "price": 899.99,
+            "description": "Audio interface with UAD-2 processing for vintage analog emulations.",
+            "year": 2022,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 6,
+            "title": "Shure SM7B Dynamic Microphone",
+            "brand": "Shure",
+            "price": 399.99,
+            "description": "Dynamic microphone with a smooth, flat, wide-range frequency response.",
+            "year": 2023,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 7,
+            "title": "Rode NT1-A Condenser Microphone",
+            "brand": "Rode",
+            "price": 199.99,
+            "description": "Studio condenser microphone with low noise and high sensitivity.",
+            "year": 2021,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 8,
+            "title": "Focusrite Clarett 8PreX Audio Interface",
+            "brand": "Focusrite",
+            "price": 899.99,
+            "description": "Thunderbolt audio interface with eight mic preamps and low-latency performance.",
+            "year": 2020,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 9,
+            "title": "Mackie HR824mk2 Studio Monitors",
+            "brand": "Mackie",
+            "price": 599.99,
+            "description": "High-resolution studio monitors with deep bass and precise mids and highs.",
+            "year": 2022,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 10,
+            "title": "Warm Audio WA-2A Optical Compressor",
+            "brand": "Warm Audio",
+            "price": 899.99,
+            "description": "Optical compressor inspired by the classic LA-2A with smooth, transparent compression.",
+            "year": 2023,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 11,
+            "title": "AKG C414 XLS Condenser Microphone",
+            "brand": "AKG",
+            "price": 999.99,
+            "description": "Versatile condenser microphone with multiple polar patterns for various applications.",
+            "year": 2021,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 12,
+            "title": "Mogami Gold Studio Patch Cable",
+            "brand": "Mogami",
+            "price": 29.99,
+            "description": "High-quality patch cable for studio signal routing.",
+            "year": 2020,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 13,
+            "title": "Yamaha HS8 Studio Monitors",
+            "brand": "Yamaha",
+            "price": 349.99,
+            "description": "Active studio monitors with a neutral and accurate sound signature.",
+            "year": 2022,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 14,
+            "title": "Slate Digital VMS ML-1 Modeling Microphone",
+            "brand": "Slate Digital",
+            "price": 799.99,
+            "description": "Modeling microphone with emulations of classic studio mics.",
+            "year": 2023,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 15,
+            "title": "Universal Audio LA-2A Compressor/Limiter",
+            "brand": "Universal Audio",
+            "price": 3499.99,
+            "description": "Legendary tube optical compressor/limiter for vintage warmth and tone control.",
+            "year": 2021,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 16,
+            "title": "M-Audio M-Track 2X2M Audio Interface",
+            "brand": "M-Audio",
+            "price": 149.99,
+            "description": "Compact audio interface with MIDI I/O and studio-grade audio quality.",
+            "year": 2020,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 17,
+            "title": "Neumann KM 184 Small-Diaphragm Microphone",
+            "brand": "Neumann",
+            "price": 799.99,
+            "description": "Small-diaphragm condenser microphone for detailed sound capture.",
+            "year": 2022,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 18,
+            "title": "Focusrite ISA One Preamp/DI",
+            "brand": "Focusrite",
+            "price": 499.99,
+            "description": "Single-channel microphone preamp with versatile options.",
+            "year": 2023,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 19,
+            "title": "PreSonus Eris E3.5 Studio Monitors",
+            "brand": "PreSonus",
+            "price": 99.99,
+            "description": "Compact studio monitors with accurate sound and convenient controls.",
+            "year": 2021,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 20,
+            "title": "Empirical Labs Distressor EL8 Compressor",
+            "brand": "Empirical Labs",
+            "price": 1299.99,
+            "description": "Versatile studio compressor known for its distinctive character.",
+            "year": 2020,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 21,
+            "title": "Shure SM57 Dynamic Microphone",
+            "brand": "Shure",
+            "price": 99.99,
+            "description": "Dynamic microphone ideal for recording instruments and vocals.",
+            "year": 2022,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 22,
+            "title": "Hosa Pro XLR Microphone Cable",
+            "brand": "Hosa",
+            "price": 19.99,
+            "description": "Professional-grade XLR cable for microphone connectivity.",
+            "year": 2021,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 23,
+            "title": "Focal Shape 65 Studio Monitors",
+            "brand": "Focal",
+            "price": 1099.99,
+            "description": "High-quality studio monitors with precise imaging and extended low end.",
+            "year": 2020,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 24,
+            "title": "Avalon VT-737sp Tube Channel Strip",
+            "brand": "Avalon",
+            "price": 2999.99,
+            "description": "Tube channel strip with microphone preamp, EQ, and compressor.",
+            "year": 2022,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 25,
+            "title": "Behringer Truth B2031A Studio Monitors",
+            "brand": "Behringer",
+            "price": 199.99,
+            "description": "Affordable studio monitors with accurate sound reproduction.",
+            "year": 2023,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 26,
+            "title": "Warm Audio EQP-WA Tube Equalizer",
+            "brand": "Warm Audio",
+            "price": 699.99,
+            "description": "Tube equalizer based on the classic Pultec EQP-1A design.",
+            "year": 2021,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 27,
+            "title": "Sennheiser MKH 416 Shotgun Microphone",
+            "brand": "Sennheiser",
+            "price": 999.99,
+            "description": "Shotgun microphone with excellent off-axis rejection for field and studio recording.",
+            "year": 2020,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 28,
+            "title": "Rupert Neve Designs 511 Mic Preamp",
+            "brand": "Rupert Neve Designs",
+            "price": 599.99,
+            "description": "Class-A microphone preamp with a vintage Neve sound.",
+            "year": 2022,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 29,
+            "title": "Mogami Gold AES/EBU Digital Cable",
+            "brand": "Mogami",
+            "price": 49.99,
+            "description": "High-quality digital AES/EBU cable for studio use.",
+            "year": 2023,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        },
+        {
+            "id": 30,
+            "title": "Audeze LCD-2 Studio Headphones",
+            "brand": "Audeze",
+            "price": 799.99,
+            "description": "Open-back studio headphones with planar magnetic drivers for detailed audio monitoring.",
+            "year": 2021,
+            "catergory": "recording_equipment",
+            "img_url": "https://placehold.co/600x400"
+        }
+    ]
 }
