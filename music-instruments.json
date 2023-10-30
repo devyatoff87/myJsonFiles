@@ -1,0 +1,244 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Fender Stratocaster Electric Guitar",
+      "brand": "Fender",
+      "price": 999.99,
+      "description": "Classic Fender Stratocaster electric guitar with a bright sound.",
+      "year": 2022
+    },
+    {
+      "id": 2,
+      "title": "Ibanez SR500 Bass Guitar",
+      "brand": "Ibanez",
+      "price": 649.99,
+      "description": "4-string bass guitar with excellent bass sound.",
+      "year": 2023
+    },
+    {
+      "id": 3,
+      "title": "Boss DS-1 Overdrive Pedal",
+      "brand": "Boss",
+      "price": 79.99,
+      "description": "Classic guitar overdrive pedal with a gritty sound.",
+      "year": 2021
+    },
+    {
+      "id": 4,
+      "title": "Marshall JCM800 Amplifier",
+      "brand": "Marshall",
+      "price": 1199.99,
+      "description": "Legendary Marshall amplifier with powerful tones.",
+      "year": 2020
+    },
+    {
+      "id": 5,
+      "title": "Yamaha FG800 Acoustic Guitar",
+      "brand": "Yamaha",
+      "price": 299.99,
+      "description": "Great acoustic guitar for beginners and experienced musicians.",
+      "year": 2022
+    },
+    {
+      "id": 6,
+      "title": "Mahalo U320 Ukulele",
+      "brand": "Mahalo",
+      "price": 49.99,
+      "description": "Ukulele with a bright sound and stylish design.",
+      "year": 2023
+    },
+    {
+      "id": 7,
+      "title": "Korg Minilogue XD Synthesizer",
+      "brand": "Korg",
+      "price": 649.99,
+      "description": "Polyphonic synthesizer with a variety of sound options.",
+      "year": 2021
+    },
+    {
+      "id": 8,
+      "title": "Pearl Export Series Drum Kit",
+      "brand": "Pearl",
+      "price": 899.99,
+      "description": "Professional drum kit for stage performances.",
+      "year": 2020
+    },
+    {
+      "id": 9,
+      "title": "Shure SM58 Microphone",
+      "brand": "Shure",
+      "price": 99.99,
+      "description": "Popular microphone for vocals and instruments.",
+      "year": 2022
+    },
+    {
+      "id": 10,
+      "title": "Hercules GS414B Guitar Stand",
+      "brand": "Hercules",
+      "price": 29.99,
+      "description": "Sturdy guitar stand with auto-lock feature.",
+      "year": 2023
+    },
+    {
+      "id": 11,
+      "title": "Electro-Harmonix Big Muff Pi Effects Pedal",
+      "brand": "Electro-Harmonix",
+      "price": 89.99,
+      "description": "Pedal for creating heavy guitar sounds.",
+      "year": 2021
+    },
+    {
+      "id": 12,
+      "title": "Nord Stage 3 Stage Keyboard",
+      "brand": "Nord",
+      "price": 2999.99,
+      "description": "Professional stage keyboard with a variety of sound options.",
+      "year": 2020
+    },
+    {
+      "id": 13,
+      "title": "Roland TD-17KVX Electronic Drum Kit",
+      "brand": "Roland",
+      "price": 1499.99,
+      "description": "Convenient and compact electronic drum kit.",
+      "year": 2022
+    },
+    {
+      "id": 14,
+      "title": "D'Addario Bass Guitar Metal Strings",
+      "brand": "D'Addario",
+      "price": 19.99,
+      "description": "Metal strings for a bright and powerful sound.",
+      "year": 2023
+    },
+    {
+      "id": 15,
+      "title": "Gator GC-DREAD Guitar Case",
+      "brand": "Gator",
+      "price": 59.99,
+      "description": "Reliable case for acoustic guitars.",
+      "year": 2021
+    },
+    {
+      "id": 16,
+      "title": "Korg MA-1 Metronome",
+      "brand": "Korg",
+      "price": 19.99,
+      "description": "Metronome with various rhythmic options.",
+      "year": 2020
+    },
+    {
+      "id": 17,
+      "title": "Hohner Special 20 Harmonica",
+      "brand": "Hohner",
+      "price": 39.99,
+      "description": "Classic harmonica for blues and rock.",
+      "year": 2022
+    },
+    {
+      "id": 18,
+      "title": "Behringer X32 Mixer Console",
+      "brand": "Behringer",
+      "price": 999.99,
+      "description": "Mixer console for professional audio recording and performances.",
+      "year": 2023
+    },
+    {
+      "id": 19,
+      "title": "Steinway & Sons Classic Grand Piano",
+      "brand": "Steinway & Sons",
+      "price": 29999.99,
+      "description": "Art in every note with a Steinway & Sons grand piano.",
+      "year": 2021
+    },
+    {
+      "id": 20,
+      "title": "Yamaha YEV105 Electric Violin",
+      "brand": "Yamaha",
+      "price": 599.99,
+      "description": "Modern electric violin with a beautiful design.",
+      "year": 2020
+    },
+    {
+      "id": 21,
+      "title": "Bach Stradivarius 180S37 Trumpet",
+      "brand": "Bach",
+      "price": 1999.99,
+      "description": "Professional trumpet for musicians.",
+      "year": 2022
+    },
+    {
+      "id": 22,
+      "title": "Hohner Panther Accordion",
+      "brand": "Hohner",
+      "price": 499.99,
+      "description": "Light and compact accordion for street performances and parties.",
+      "year": 2023
+    },
+    {
+      "id": 23,
+      "title": "Jupiter JBB378 Tuba",
+      "brand": "Jupiter",
+      "price": 1199.99,
+      "description": "Quality tuba for school and orchestral performances.",
+      "year": 2021
+    },
+    {
+      "id": 24,
+      "title": "Roland AE-10 Electronic Saxophone",
+      "brand": "Roland",
+      "price": 699.99,
+      "description": "Saxophone with electronic features and synthesizer.",
+      "year": 2020
+    },
+    {
+      "id": 25,
+      "title": "Pearl Championship Series Marching Drum",
+      "brand": "Pearl",
+      "price": 799.99,
+      "description": "Marching drum for parades and performances.",
+      "year": 2022
+    },
+    {
+      "id": 26,
+      "title": "Buffet Crampon R13 Clarinet",
+      "brand": "Buffet Crampon",
+      "price": 999.99,
+      "description": "Professional clarinet for solo performances.",
+      "year": 2023
+    },
+    {
+      "id": 27,
+      "title": "Mogami Gold Guitar Cable",
+      "brand": "Mogami",
+      "price": 39.99,
+      "description": "High-quality cable for connecting the guitar to an amplifier.",
+      "year": 2021
+    },
+    {
+      "id": 28,
+      "title": "Tama Iron Cobra 900 Bass Drum Pedal",
+      "brand": "Tama",
+      "price": 149.99,
+      "description": "Bass drum pedal with high sensitivity.",
+      "year": 2020
+    },
+    {
+      "id": 29,
+      "title": "Yamaha YV-1605 Vibraphone",
+      "brand": "Yamaha",
+      "price": 1199.99,
+      "description": "Vibraphone for jazz and classical performances.",
+      "year": 2022
+    },
+    {
+      "id": 30,
+      "title": "Fox Renard Model 222 Bassoon",
+      "brand": "Fox Renard",
+      "price": 2999.99,
+      "description": "High-quality bassoon for orchestral and solo performances.",
+      "year": 2023
+    }
+  ]
+}
