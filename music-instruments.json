@@ -482,5 +482,247 @@
       "description": "Protective soft case with wheels for accordion transport.",
       "year": 2021
     }
+  ],
+    "recording_equipment": [
+    {
+      "id": 1,
+      "title": "Neumann U87 Studio Microphone",
+      "brand": "Neumann",
+      "price": 3499.99,
+      "description": "High-end studio microphone known for its exceptional audio quality.",
+      "year": 2022
+    },
+    {
+      "id": 2,
+      "title": "SSL 2+ USB Audio Interface",
+      "brand": "Solid State Logic",
+      "price": 299.99,
+      "description": "USB audio interface with pristine sound and classic SSL analog processing.",
+      "year": 2023
+    },
+    {
+      "id": 3,
+      "title": "Mogami Gold XLR Microphone Cable",
+      "brand": "Mogami",
+      "price": 39.99,
+      "description": "High-quality XLR cable for studio and live sound applications.",
+      "year": 2021
+    },
+    {
+      "id": 4,
+      "title": "Adam Audio A7X Studio Monitors",
+      "brand": "Adam Audio",
+      "price": 749.99,
+      "description": "Active studio monitors with precise and transparent audio reproduction.",
+      "year": 2020
+    },
+    {
+      "id": 5,
+      "title": "Universal Audio Apollo Twin X Duo Audio Interface",
+      "brand": "Universal Audio",
+      "price": 899.99,
+      "description": "Audio interface with UAD-2 processing for vintage analog emulations.",
+      "year": 2022
+    },
+    {
+      "id": 6,
+      "title": "Shure SM7B Dynamic Microphone",
+      "brand": "Shure",
+      "price": 399.99,
+      "description": "Dynamic microphone with a smooth, flat, wide-range frequency response.",
+      "year": 2023
+    },
+    {
+      "id": 7,
+      "title": "Rode NT1-A Condenser Microphone",
+      "brand": "Rode",
+      "price": 199.99,
+      "description": "Studio condenser microphone with low noise and high sensitivity.",
+      "year": 2021
+    },
+    {
+      "id": 8,
+      "title": "Focusrite Clarett 8PreX Audio Interface",
+      "brand": "Focusrite",
+      "price": 899.99,
+      "description": "Thunderbolt audio interface with eight mic preamps and low-latency performance.",
+      "year": 2020
+    },
+    {
+      "id": 9,
+      "title": "Mackie HR824mk2 Studio Monitors",
+      "brand": "Mackie",
+      "price": 599.99,
+      "description": "High-resolution studio monitors with deep bass and precise mids and highs.",
+      "year": 2022
+    },
+    {
+      "id": 10,
+      "title": "Warm Audio WA-2A Optical Compressor",
+      "brand": "Warm Audio",
+      "price": 899.99,
+      "description": "Optical compressor inspired by the classic LA-2A with smooth, transparent compression.",
+      "year": 2023
+    },
+    {
+      "id": 11,
+      "title": "AKG C414 XLS Condenser Microphone",
+      "brand": "AKG",
+      "price": 999.99,
+      "description": "Versatile condenser microphone with multiple polar patterns for various applications.",
+      "year": 2021
+    },
+    {
+      "id": 12,
+      "title": "Mogami Gold Studio Patch Cable",
+      "brand": "Mogami",
+      "price": 29.99,
+      "description": "High-quality patch cable for studio signal routing.",
+      "year": 2020
+    },
+    {
+      "id": 13,
+      "title": "Yamaha HS8 Studio Monitors",
+      "brand": "Yamaha",
+      "price": 349.99,
+      "description": "Active studio monitors with a neutral and accurate sound signature.",
+      "year": 2022
+    },
+    {
+      "id": 14,
+      "title": "Slate Digital VMS ML-1 Modeling Microphone",
+      "brand": "Slate Digital",
+      "price": 799.99,
+      "description": "Modeling microphone with emulations of classic studio mics.",
+      "year": 2023
+    },
+    {
+      "id": 15,
+      "title": "Universal Audio LA-2A Compressor/Limiter",
+      "brand": "Universal Audio",
+      "price": 3499.99,
+      "description": "Legendary tube optical compressor/limiter for vintage warmth and tone control.",
+      "year": 2021
+    },
+    {
+      "id": 16,
+      "title": "M-Audio M-Track 2X2M Audio Interface",
+      "brand": "M-Audio",
+      "price": 149.99,
+      "description": "Compact audio interface with MIDI I/O and studio-grade audio quality.",
+      "year": 2020
+    },
+    {
+      "id": 17,
+      "title": "Neumann KM 184 Small-Diaphragm Microphone",
+      "brand": "Neumann",
+      "price": 799.99,
+      "description": "Small-diaphragm condenser microphone for detailed sound capture.",
+      "year": 2022
+    },
+    {
+      "id": 18,
+      "title": "Focusrite ISA One Preamp/DI",
+      "brand": "Focusrite",
+      "price": 499.99,
+      "description": "Single-channel microphone preamp with versatile options.",
+      "year": 2023
+    },
+    {
+      "id": 19,
+      "title": "PreSonus Eris E3.5 Studio Monitors",
+      "brand": "PreSonus",
+      "price": 99.99,
+      "description": "Compact studio monitors with accurate sound and convenient controls.",
+      "year": 2021
+    },
+    {
+      "id": 20,
+      "title": "Empirical Labs Distressor EL8 Compressor",
+      "brand": "Empirical Labs",
+      "price": 1299.99,
+      "description": "Versatile studio compressor known for its distinctive character.",
+      "year": 2020
+    },
+    {
+      "id": 21,
+      "title": "Shure SM57 Dynamic Microphone",
+      "brand": "Shure",
+      "price": 99.99,
+      "description": "Dynamic microphone ideal for recording instruments and vocals.",
+      "year": 2022
+    },
+    {
+      "id": 22,
+      "title": "Hosa Pro XLR Microphone Cable",
+      "brand": "Hosa",
+      "price": 19.99,
+      "description": "Professional-grade XLR cable for microphone connectivity.",
+      "year": 2021
+    },
+    {
+      "id": 23,
+      "title": "Focal Shape 65 Studio Monitors",
+      "brand": "Focal",
+      "price": 1099.99,
+      "description": "High-quality studio monitors with precise imaging and extended low end.",
+      "year": 2020
+    },
+    {
+      "id": 24,
+      "title": "Avalon VT-737sp Tube Channel Strip",
+      "brand": "Avalon",
+      "price": 2999.99,
+      "description": "Tube channel strip with microphone preamp, EQ, and compressor.",
+      "year": 2022
+    },
+    {
+      "id": 25,
+      "title": "Behringer Truth B2031A Studio Monitors",
+      "brand": "Behringer",
+      "price": 199.99,
+      "description": "Affordable studio monitors with accurate sound reproduction.",
+      "year": 2023
+    },
+    {
+      "id": 26,
+      "title": "Warm Audio EQP-WA Tube Equalizer",
+      "brand": "Warm Audio",
+      "price": 699.99,
+      "description": "Tube equalizer based on the classic Pultec EQP-1A design.",
+      "year": 2021
+    },
+    {
+      "id": 27,
+      "title": "Sennheiser MKH 416 Shotgun Microphone",
+      "brand": "Sennheiser",
+      "price": 999.99,
+      "description": "Shotgun microphone with excellent off-axis rejection for field and studio recording.",
+      "year": 2020
+    },
+    {
+      "id": 28,
+      "title": "Rupert Neve Designs 511 Mic Preamp",
+      "brand": "Rupert Neve Designs",
+      "price": 599.99,
+      "description": "Class-A microphone preamp with a vintage Neve sound.",
+      "year": 2022
+    },
+    {
+      "id": 29,
+      "title": "Mogami Gold AES/EBU Digital Cable",
+      "brand": "Mogami",
+      "price": 49.99,
+      "description": "High-quality digital AES/EBU cable for studio use.",
+      "year": 2023
+    },
+    {
+      "id": 30,
+      "title": "Audeze LCD-2 Studio Headphones",
+      "brand": "Audeze",
+      "price": 799.99,
+      "description": "Open-back studio headphones with planar magnetic drivers for detailed audio monitoring.",
+      "year": 2021
+    }
   ]
 }
